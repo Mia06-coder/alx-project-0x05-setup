@@ -31,9 +31,7 @@ A `Next.js` web application that generates `AI-powered images` from text prompts
 
 ## Demo
 
-<!-- ![Screenshot]() -->
-
-> COMING SOON!!!
+![Screenshot](./public/assets/prompt_1.PNG)
 
 ---
 
@@ -77,7 +75,7 @@ alx-project-0x07/ (and subsequent versions)
 1. Clone the repository
    ```bash
    git clone https://github.com/Mia06-coder/alx-project-0x05-setup.git
-   cd alx-project-0x07
+   cd alx-project-0x012
    ```
 2. Install dependencies
 

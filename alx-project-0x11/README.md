@@ -31,9 +31,7 @@ A `Next.js` web application that generates `AI-powered images` from text prompts
 
 ## Demo
 
-<!-- ![Screenshot]() -->
-
-> COMING SOON!!!
+![Screenshot](./public/assets/prompt_1.PNG)
 
 ---
 
@@ -77,15 +75,24 @@ alx-project-0x07/ (and subsequent versions)
 1. Clone the repository
    ```bash
    git clone https://github.com/Mia06-coder/alx-project-0x05-setup.git
-   cd alx-project-0x08
+   cd alx-project-0x11
    ```
 2. Install dependencies
+
    ```bash
    npm install
    # or
    yarn install
    ```
-3. Run the development server
+
+3. Set up environment variables
+
+- Create a .env.local file in the root directory:
+  ```bash
+    NEXT_PUBLIC_GPT_API_KEY="API_KEY_GOES_HERE"
+  ```
+
+4. Run the development server
 
    ```bash
    npm run dev
